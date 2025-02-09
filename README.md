@@ -11,6 +11,12 @@ This is your airdrop guide, from Retro, testnet, depin or node running
 
 [SayEcho](https://github.com/0xinfinity101/SayEcho)
 
+[BITHUB77](https://github.com/0xinfinity101/Bithub77)
+
+[BLOCKMESH](https://github.com/0xinfinity101/Blockmesh)
+
+
+
 
 
 
